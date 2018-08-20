@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="5">
+        <file>
+            <url>src/wpo_gui/Test.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>18</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/wpo_gui/WPO_GUI.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>568</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/wpo_gui/PixelsMatrix.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>15</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/PixelRGB.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/Histogram.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/WPO_GUI.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/Type.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/ArithmeticOperations.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/PCXImage.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/GeometricOperations.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/MorphologicOperations.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/Dialogs.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/Filtering.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/PixelsMatrix.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/Binary.java</file>
+            <file>file:/S:/Dysk%20Google/NetBeans/WPO_GUI/src/wpo_gui/Channel.java</file>
+        </group>
+    </open-files>
+</project-private>
