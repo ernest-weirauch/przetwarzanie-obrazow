@@ -1,6 +1,6 @@
 # przetwarzanie-obrazow
 
 PCX image format operations in Java. 
-Repo contains samples.
+Repo contains sample PCX files.
 
 

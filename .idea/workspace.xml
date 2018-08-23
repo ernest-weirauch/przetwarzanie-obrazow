@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36363940-20a1-46dc-98cc-ecb31f6eef6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/dist/README.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.aux" beforeDir="false" afterPath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.blg" beforeDir="false" afterPath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.blg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.log" beforeDir="false" afterPath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.tcp" beforeDir="false" afterPath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.tcp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.tex" beforeDir="false" afterPath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.tps" beforeDir="false" afterPath="$PROJECT_DIR$/dokumentacjaTeX/DokumentacjaWPO.tps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokumentacjaTeX/TeXnicCenter-Project.tcp" beforeDir="false" afterPath="$PROJECT_DIR$/dokumentacjaTeX/TeXnicCenter-Project.tcp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokumentacjaTeX/TeXnicCenter-Project.tps" beforeDir="false" afterPath="$PROJECT_DIR$/dokumentacjaTeX/TeXnicCenter-Project.tps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/histogram/lenna.pcxBLUE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/histogram/lenna.pcxBLUE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/histogram/lenna.pcxGREEN.txt" beforeDir="false" afterPath="$PROJECT_DIR$/histogram/lenna.pcxGREEN.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/histogram/lenna.pcxRED.txt" beforeDir="false" afterPath="$PROJECT_DIR$/histogram/lenna.pcxRED.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartHints.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartHints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartMouseEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartMouseEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartMouseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartMouseListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartRenderingInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartRenderingInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartTheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartTheme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartTransferable.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartTransferable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ChartUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/ClipPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/ClipPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/DrawableLegendItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/DrawableLegendItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/Effect3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/Effect3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/HashUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/HashUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/JFreeChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/JFreeChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LegendItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LegendItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LegendItemCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LegendItemCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LegendItemSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LegendItemSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LegendRenderingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LegendRenderingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_cs.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_cs.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_de.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_de.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_es.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_fr.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_fr.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_it.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_it.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_ja.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_ja.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_nl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_nl.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_pl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_pl.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_pt_BR.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_pt_BR.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_pt_PT.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_pt_PT.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_ru.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_zh_CN.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_zh_CN.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_zh_TW.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/LocalizationBundle_zh_TW.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/MouseWheelHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/MouseWheelHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/PaintMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/PaintMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/PolarChartPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/PolarChartPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/StandardChartTheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/StandardChartTheme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/StrokeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/StrokeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/AbstractAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/AbstractAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/AbstractXYAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/AbstractXYAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/Annotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/Annotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/CategoryAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/CategoryAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/CategoryLineAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/CategoryLineAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/CategoryPointerAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/CategoryPointerAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/CategoryTextAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/CategoryTextAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/TextAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/TextAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYAnnotationBoundsInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYAnnotationBoundsInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYBoxAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYBoxAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYDataImageAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYDataImageAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYDrawableAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYDrawableAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYImageAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYImageAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYLineAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYLineAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYPointerAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYPointerAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYPolygonAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYPolygonAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYShapeAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYShapeAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYTextAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYTextAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYTitleAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/XYTitleAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/annotations/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/Axis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/Axis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisLabelLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisLabelLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisState.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/AxisState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryAnchor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryAnchor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryAxis3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryAxis3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryLabelPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryLabelPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryLabelPositions.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryLabelPositions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryLabelWidthType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryLabelWidthType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryTick.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CategoryTick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ColorBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ColorBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CompassFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CompassFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CyclicNumberAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/CyclicNumberAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateTick.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateTick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateTickMarkPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateTickMarkPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateTickUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateTickUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateTickUnitType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/DateTickUnitType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ExtendedCategoryAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ExtendedCategoryAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/LogAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/LogAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/LogTick.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/LogTick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/LogarithmicAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/LogarithmicAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/MarkerAxisBand.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/MarkerAxisBand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ModuloAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ModuloAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/MonthDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/MonthDateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberAxis3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberAxis3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberTick.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberTick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberTickUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberTickUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberTickUnitSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/NumberTickUnitSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/PeriodAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/PeriodAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/PeriodAxisLabelInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/PeriodAxisLabelInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/QuarterDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/QuarterDateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/SegmentedTimeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/SegmentedTimeline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/StandardTickUnitSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/StandardTickUnitSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/SubCategoryAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/SubCategoryAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/SymbolAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/SymbolAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/Tick.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/Tick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/TickType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/TickType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/TickUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/TickUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/TickUnitSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/TickUnitSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/TickUnits.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/TickUnits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/Timeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/Timeline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ValueAxis.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ValueAxis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ValueTick.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/ValueTick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/axis/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/AbstractBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/AbstractBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/Arrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/Arrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockBorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockBorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BlockResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BorderArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/BorderArrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/CenterArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/CenterArrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/ColorBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/ColorBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/ColumnArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/ColumnArrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/EmptyBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/EmptyBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/EntityBlockParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/EntityBlockParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/EntityBlockResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/EntityBlockResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/FlowArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/FlowArrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/GridArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/GridArrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/LabelBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/LabelBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/LengthConstraintType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/LengthConstraintType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/LineBorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/LineBorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/RectangleConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/RectangleConstraint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/block/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/demo/BarChartDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/demo/BarChartDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/demo/PieChartDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/demo/PieChartDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/demo/TimeSeriesChartDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/demo/TimeSeriesChartDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/demo/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/demo/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/ChartEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/ChartEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/ChartEditorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/ChartEditorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/ChartEditorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/ChartEditorManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultAxisEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultAxisEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultChartEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultChartEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultChartEditorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultChartEditorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultColorBarEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultColorBarEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultLogAxisEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultLogAxisEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultNumberAxisEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultNumberAxisEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultPlotEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultPlotEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultPolarPlotEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultPolarPlotEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultTitleEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultTitleEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultValueAxisEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/DefaultValueAxisEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_cs.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_cs.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_de.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_de.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_es.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_fr.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_fr.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_ja.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_ja.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_nl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_nl.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_pl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_pl.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_pt_BR.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_pt_BR.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_pt_PT.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_pt_PT.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_ru.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_zh_CN.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/LocalizationBundle_zh_CN.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/PaletteChooserPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/PaletteChooserPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/PaletteSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/PaletteSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/editor/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/EncoderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/EncoderUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/ImageEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/ImageEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/ImageEncoderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/ImageEncoderFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/ImageFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/ImageFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/KeypointPNGEncoderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/KeypointPNGEncoderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/SunJPEGEncoderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/SunJPEGEncoderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/SunPNGEncoderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/SunPNGEncoderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/encoders/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/AxisEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/AxisEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/CategoryItemEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/CategoryItemEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/CategoryLabelEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/CategoryLabelEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/ChartEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/ChartEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/ContourEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/ContourEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/EntityCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/EntityCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/JFreeChartEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/JFreeChartEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/LegendItemEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/LegendItemEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/PieSectionEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/PieSectionEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/PlotEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/PlotEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/StandardEntityCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/StandardEntityCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/TickLabelEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/TickLabelEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/TitleEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/TitleEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/XYAnnotationEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/XYAnnotationEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/XYItemEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/XYItemEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/entity/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/AnnotationChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/AnnotationChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/AnnotationChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/AnnotationChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/AxisChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/AxisChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/AxisChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/AxisChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartChangeEventType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartChangeEventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartProgressEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartProgressEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartProgressListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/ChartProgressListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/MarkerChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/MarkerChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/MarkerChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/MarkerChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/OverlayChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/OverlayChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/OverlayChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/OverlayChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/PlotChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/PlotChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/PlotChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/PlotChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/RendererChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/RendererChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/RendererChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/RendererChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/TitleChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/TitleChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/TitleChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/TitleChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/event/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/ChartCanvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/ChartCanvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/ChartViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/ChartViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/ChartViewerSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/ChartViewerSkin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/FXGraphics2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/FXGraphics2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/chart-viewer.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/chart-viewer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/demo/BarChartFXDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/demo/BarChartFXDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/demo/PieChartFXDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/demo/PieChartFXDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/demo/TimeSeriesChartFXDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/demo/TimeSeriesChartFXDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/demo/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/demo/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/AbstractMouseHandlerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/AbstractMouseHandlerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/AnchorHandlerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/AnchorHandlerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/ChartMouseEventFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/ChartMouseEventFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/ChartMouseListenerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/ChartMouseListenerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/DispatchHandlerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/DispatchHandlerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/MouseHandlerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/MouseHandlerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/PanHandlerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/PanHandlerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/ScrollHandlerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/ScrollHandlerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/TooltipHandlerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/TooltipHandlerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/ZoomHandlerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/ZoomHandlerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/interaction/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/fx/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/DynamicDriveToolTipTagFragmentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/DynamicDriveToolTipTagFragmentGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/ImageMapUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/ImageMapUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/OverLIBToolTipTagFragmentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/OverLIBToolTipTagFragmentGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/StandardURLTagFragmentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/StandardURLTagFragmentGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/ToolTipTagFragmentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/ToolTipTagFragmentGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/URLTagFragmentGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/URLTagFragmentGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/imagemap/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/AbstractCategoryItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/AbstractPieItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/AbstractPieItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/AbstractXYItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/AbstractXYItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/BoxAndWhiskerToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/BoxAndWhiskerToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/BoxAndWhiskerXYToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/BubbleXYItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/BubbleXYItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CategoryItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CategoryItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CategorySeriesLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CategorySeriesLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CategoryToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CategoryToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/ContourToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/ContourToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CrosshairLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CrosshairLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CustomXYToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/CustomXYToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/HighLowItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/HighLowItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/IntervalCategoryItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/IntervalCategoryItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/IntervalCategoryToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/IntervalCategoryToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/IntervalXYItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/IntervalXYItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/ItemLabelAnchor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/ItemLabelAnchor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/ItemLabelPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/ItemLabelPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/MultipleXYSeriesLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/PieSectionLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/PieSectionLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/PieToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/PieToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardCategoryItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardCategoryItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardCategorySeriesLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardCategoryToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardCategoryToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardContourToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardContourToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardCrosshairLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardCrosshairLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardPieSectionLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardPieSectionLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardPieToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardPieToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardXYItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardXYItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardXYSeriesLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardXYSeriesLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardXYToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardXYToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardXYZToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/StandardXYZToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/SymbolicXYItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/SymbolicXYItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/XYItemLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/XYItemLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/XYSeriesLabelGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/XYSeriesLabelGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/XYToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/XYToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/XYZToolTipGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/XYZToolTipGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/labels/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/ArrowNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/ArrowNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/LineNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/LineNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/LongNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/LongNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/MeterNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/MeterNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/MiddlePinNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/MiddlePinNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/PinNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/PinNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/PlumNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/PlumNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/PointerNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/PointerNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/ShipNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/ShipNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/WindNeedle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/WindNeedle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/needle/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/panel/AbstractOverlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/panel/AbstractOverlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/panel/CrosshairOverlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/panel/CrosshairOverlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/panel/Overlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/panel/Overlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/panel/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/panel/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/AbstractPieLabelDistributor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/AbstractPieLabelDistributor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CategoryCrosshairState.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CategoryCrosshairState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CategoryMarker.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CategoryMarker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CategoryPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CategoryPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CenterTextMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CenterTextMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ColorPalette.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ColorPalette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CombinedDomainCategoryPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CombinedDomainCategoryPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CombinedDomainXYPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CombinedDomainXYPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CombinedRangeCategoryPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CombinedRangeCategoryPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CombinedRangeXYPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CombinedRangeXYPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CompassPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CompassPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ContourPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ContourPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ContourPlotUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ContourPlotUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ContourValuePlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ContourValuePlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Crosshair.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Crosshair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CrosshairState.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/CrosshairState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/DatasetRenderingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/DatasetRenderingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/DefaultDrawingSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/DefaultDrawingSupplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/DialShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/DialShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/DrawingSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/DrawingSupplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/FastScatterPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/FastScatterPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/GreyPalette.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/GreyPalette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/IntervalMarker.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/IntervalMarker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/JThermometer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/JThermometer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_cs.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_cs.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_de.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_de.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_es.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_fr.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_fr.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_ja.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_ja.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_nl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_nl.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_pl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_pl.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_pt_PT.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_pt_PT.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_ru.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_ru.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_zh_CN.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/LocalizationBundle_zh_CN.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Marker.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Marker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/MeterInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/MeterInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/MeterPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/MeterPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/MultiplePiePlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/MultiplePiePlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Pannable.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Pannable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PieLabelDistributor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PieLabelDistributor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PieLabelLinkStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PieLabelLinkStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PieLabelRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PieLabelRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PiePlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PiePlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PiePlot3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PiePlot3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PiePlotState.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PiePlotState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Plot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Plot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PlotOrientation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PlotOrientation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PlotRenderingInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PlotRenderingInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PlotState.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PlotState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PlotUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PlotUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PolarAxisLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PolarAxisLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PolarPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/PolarPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/RainbowPalette.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/RainbowPalette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/RingPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/RingPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/SeriesRenderingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/SeriesRenderingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/SpiderWebPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/SpiderWebPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ThermometerPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ThermometerPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ValueAxisPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ValueAxisPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ValueMarker.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/ValueMarker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/WaferMapPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/WaferMapPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/XYCrosshairState.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/XYCrosshairState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/XYPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/XYPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Zoomable.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/Zoomable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/AbstractDialLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/AbstractDialLayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/ArcDialFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/ArcDialFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialBackground.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialBackground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialCap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialCap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialLayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialLayerChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialLayerChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialLayerChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialLayerChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialPlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialPlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialScale.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialScale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialTextAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialTextAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialValueIndicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/DialValueIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/StandardDialFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/StandardDialFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/StandardDialRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/StandardDialRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/StandardDialScale.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/StandardDialScale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/dial/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/plot/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/AbstractRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/AbstractRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/AreaRendererEndType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/AreaRendererEndType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/DefaultPolarItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/DefaultPolarItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/GrayPaintScale.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/GrayPaintScale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/LookupPaintScale.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/LookupPaintScale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/NotOutlierException.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/NotOutlierException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/Outlier.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/Outlier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/OutlierList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/OutlierList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/OutlierListCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/OutlierListCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/PaintScale.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/PaintScale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/PolarItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/PolarItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/RendererState.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/RendererState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/RendererUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/RendererUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/WaferMapRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/WaferMapRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/AreaRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/AreaRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/BarPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/BarPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/BarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/BarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/BarRenderer3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/BarRenderer3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/CategoryItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/CategoryItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/CategoryItemRendererState.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/CategoryItemRendererState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/CategoryStepRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/CategoryStepRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/DefaultCategoryItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/DefaultCategoryItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/GanttRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/GanttRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/GradientBarPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/GradientBarPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/GroupedStackedBarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/GroupedStackedBarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/IntervalBarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/IntervalBarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/LayeredBarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/LayeredBarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/LevelRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/LevelRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/LineAndShapeRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/LineAndShapeRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/LineRenderer3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/LineRenderer3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/ScatterRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/ScatterRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StackedAreaRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StackedAreaRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StackedBarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StackedBarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StackedBarRenderer3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StackedBarRenderer3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StandardBarPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StandardBarPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StatisticalBarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StatisticalBarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/StatisticalLineAndShapeRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/WaterfallBarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/WaterfallBarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/category/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/CandlestickRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/CandlestickRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/ClusteredXYBarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/ClusteredXYBarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/CyclicXYItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/CyclicXYItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/DefaultXYItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/DefaultXYItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/DeviationRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/DeviationRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/GradientXYBarPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/GradientXYBarPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/HighLowRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/HighLowRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/SamplingXYLineRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/SamplingXYLineRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StackedXYAreaRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StackedXYAreaRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StackedXYAreaRenderer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StackedXYBarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StackedXYBarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StandardXYBarPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StandardXYBarPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StandardXYItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/StandardXYItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/VectorRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/VectorRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/WindItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/WindItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYAreaRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYAreaRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYAreaRenderer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYAreaRenderer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBarPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBarPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBarRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBarRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBlockRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBlockRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBoxAndWhiskerRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBubbleRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYBubbleRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYDifferenceRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYDifferenceRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYDotRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYDotRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYErrorRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYErrorRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYItemRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYItemRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYItemRendererState.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYItemRendererState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYLine3DRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYLine3DRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYShapeRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYShapeRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYSplineRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYSplineRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYStepAreaRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYStepAreaRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYStepRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/XYStepRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/YIntervalRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/YIntervalRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/renderer/xy/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/resources/JFreeChartResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/resources/JFreeChartResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/resources/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/resources/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/servlet/ChartDeleter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/servlet/ChartDeleter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/servlet/DisplayChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/servlet/DisplayChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/servlet/ServletUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/servlet/ServletUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/servlet/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/servlet/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/CompositeTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/CompositeTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/DateTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/DateTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/ImageTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/ImageTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/LegendGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/LegendGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/LegendItemBlockContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/LegendItemBlockContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/LegendTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/LegendTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/PaintScaleLegend.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/PaintScaleLegend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/ShortTextTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/ShortTextTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/TextTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/TextTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/Title.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/title/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/CategoryURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/CategoryURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/CustomCategoryURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/CustomCategoryURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/CustomPieURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/CustomPieURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/CustomXYURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/CustomXYURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/PieURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/PieURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/StandardCategoryURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/StandardCategoryURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/StandardPieURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/StandardPieURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/StandardXYURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/StandardXYURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/StandardXYZURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/StandardXYZURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/TimeSeriesURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/TimeSeriesURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/URLUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/URLUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/XYURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/XYURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/XYZURLGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/XYZURLGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/urls/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/AttrStringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/AttrStringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/CloneUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/CloneUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/DefaultShadowGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/DefaultShadowGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/DirectionalGradientPaintTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/DirectionalGradientPaintTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/ExportUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/ExportUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/HMSNumberFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/HMSNumberFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/HexNumberFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/HexNumberFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/LineUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/LineUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/LogFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/LogFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/PaintAlpha.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/PaintAlpha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/ParamChecks.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/ParamChecks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/RelativeDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/RelativeDateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/ResourceBundleWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/ResourceBundleWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/ShadowGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/ShadowGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/TextUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/TextUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/XYCoordinateType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/XYCoordinateType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/chart/util/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/ComparableObjectItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/ComparableObjectItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/ComparableObjectSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/ComparableObjectSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/DataUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/DataUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/DefaultKeyedValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/DefaultKeyedValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/DefaultKeyedValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/DefaultKeyedValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/DefaultKeyedValues2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/DefaultKeyedValues2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/DomainInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/DomainInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/DomainOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/DomainOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyToGroupMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyToGroupMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedObjects2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedObjects2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValueComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValueComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValueComparatorType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValueComparatorType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValues2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/KeyedValues2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/RangeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/RangeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/RangeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/RangeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/UnknownKeyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/UnknownKeyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/Value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/Values.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/Values2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/Values2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/category/CategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/category/CategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/category/CategoryRangeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/category/CategoryRangeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/category/CategoryToPieDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/category/CategoryToPieDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/category/DefaultCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/category/DefaultCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/category/IntervalCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/category/IntervalCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/category/SlidingCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/category/SlidingCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/category/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/category/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/contour/ContourDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/contour/ContourDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/contour/DefaultContourDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/contour/DefaultContourDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/contour/NonGridContourDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/contour/NonGridContourDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/contour/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/contour/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/function/Function2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/function/Function2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/function/LineFunction2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/function/LineFunction2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/function/NormalDistributionFunction2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/function/NormalDistributionFunction2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/function/PolynomialFunction2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/function/PolynomialFunction2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/function/PowerFunction2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/function/PowerFunction2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/function/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/function/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/GanttCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/GanttCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/SlidingGanttCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/SlidingGanttCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/TaskSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/TaskSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/TaskSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/TaskSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/XYTaskDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/XYTaskDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/gantt/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/AbstractDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/AbstractDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/AbstractSeriesDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/AbstractSeriesDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/CombinationDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/CombinationDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/CombinedDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/CombinedDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/Dataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/Dataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DatasetChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DatasetChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DatasetChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DatasetChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DatasetGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DatasetGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DatasetUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DatasetUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultHeatMapDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultHeatMapDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultKeyedValueDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultKeyedValueDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultKeyedValues2DDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultKeyedValues2DDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultKeyedValuesDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultKeyedValuesDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultPieDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultPieDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultValueDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/DefaultValueDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/HeatMapDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/HeatMapDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/HeatMapUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/HeatMapUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/KeyedValueDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/KeyedValueDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/KeyedValues2DDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/KeyedValues2DDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/KeyedValuesDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/KeyedValuesDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/PieDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/PieDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SeriesChangeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SeriesChangeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SeriesChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SeriesChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SeriesDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SeriesDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SeriesException.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SeriesException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SubSeriesDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/SubSeriesDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/ValueDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/ValueDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/WaferMapDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/WaferMapDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/general/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/general/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/io/CSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/io/CSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/io/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/io/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/jdbc/JDBCCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/jdbc/JDBCCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/jdbc/JDBCPieDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/jdbc/JDBCPieDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/jdbc/JDBCXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/jdbc/JDBCXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/jdbc/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/jdbc/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_de.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_de.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_es.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_es.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_fr.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_fr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_pl.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_pl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_ru.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/DataPackageResources_ru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/resources/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/BoxAndWhiskerCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/BoxAndWhiskerCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/BoxAndWhiskerCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/BoxAndWhiskerCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/BoxAndWhiskerItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/BoxAndWhiskerItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/BoxAndWhiskerXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/BoxAndWhiskerXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/DefaultBoxAndWhiskerXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/DefaultBoxAndWhiskerXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/DefaultMultiValueCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/DefaultMultiValueCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/DefaultStatisticalCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/HistogramBin.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/HistogramBin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/HistogramDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/HistogramDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/HistogramType.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/HistogramType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/MeanAndStandardDeviation.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/MeanAndStandardDeviation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/MultiValueCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/MultiValueCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/Regression.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/Regression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/SimpleHistogramBin.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/SimpleHistogramBin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/SimpleHistogramDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/SimpleHistogramDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/StatisticalCategoryDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/StatisticalCategoryDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/statistics/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/DateRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/DateRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/DynamicTimeSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/DynamicTimeSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/FixedMillisecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/FixedMillisecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Hour.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Hour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Millisecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Millisecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Minute.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Minute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/MovingAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/MovingAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Quarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Quarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/RegularTimePeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/RegularTimePeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/SimpleTimePeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/SimpleTimePeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodAnchor.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodAnchor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodValuesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimePeriodValuesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeSeriesDataItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeSeriesDataItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeSeriesTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeSeriesTableModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeTableXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/TimeTableXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Week.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Week.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Year.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/Year.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/OHLC.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/OHLC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/OHLCItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/OHLCItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/OHLCSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/OHLCSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/OHLCSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/OHLCSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/ohlc/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/time/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/time/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/CategoryDatasetHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/CategoryDatasetHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/CategorySeriesHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/CategorySeriesHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/DatasetReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/DatasetReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/DatasetTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/DatasetTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/ItemHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/ItemHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/KeyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/KeyHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/PieDatasetHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/PieDatasetHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/RootHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/RootHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/ValueHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/ValueHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xml/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/AbstractIntervalXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/AbstractIntervalXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/AbstractXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/AbstractXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/AbstractXYZDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/AbstractXYZDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/CategoryTableXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/CategoryTableXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultHighLowDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultHighLowDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultIntervalXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultIntervalXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultOHLCDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultOHLCDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultTableXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultTableXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultWindDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultWindDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultXYZDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/DefaultXYZDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/IntervalXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/IntervalXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/IntervalXYDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/IntervalXYDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/IntervalXYZDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/IntervalXYZDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/MatrixSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/MatrixSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/MatrixSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/MatrixSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/NormalizedMatrixSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/NormalizedMatrixSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/OHLCDataItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/OHLCDataItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/OHLCDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/OHLCDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/TableXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/TableXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/VectorDataItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/VectorDataItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/VectorSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/VectorSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/VectorSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/VectorSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/VectorXYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/VectorXYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/WindDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/WindDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XIntervalDataItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XIntervalDataItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XIntervalSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XIntervalSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XIntervalSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XIntervalSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYBarDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYBarDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYCoordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYCoordinate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYDataItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYDataItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYDatasetTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYDatasetTableModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYDomainInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYDomainInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYIntervalDataItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYIntervalDataItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYIntervalSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYIntervalSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYIntervalSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYIntervalSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYRangeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYRangeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYZDataset.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XYZDataset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XisSymbolic.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/XisSymbolic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YIntervalDataItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YIntervalDataItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YIntervalSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YIntervalSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YIntervalSeriesCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YIntervalSeriesCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YWithXInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YWithXInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YisSymbolic.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/YisSymbolic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/package.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/org/jfree/data/xy/package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/source/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/source/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/ArithmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/ArithmeticOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/Channel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/Dialogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/Dialogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/Filtering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/Filtering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/GeometricOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/GeometricOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/Histogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/Histogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/HistogramFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/HistogramFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/MorphologicOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/MorphologicOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/PCXImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/PCXImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/PixelRGB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/PixelRGB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/PixelsMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/PixelsMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/Tool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wpo_gui/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wpo_gui/Type.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-517706312">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-192563238">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wpo_gui/WPO_GUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-306">
+              <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#62363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wpo_gui/HistogramFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1761" />
+    <option name="y" value="60" />
+    <option name="width" value="1857" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WPO_GUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WPO_GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535054212532" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WPO_GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wpo_gui.WPO_GUI" />
+      <module name="przetwarzanie-obrazow-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WPO_GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36363940-20a1-46dc-98cc-ecb31f6eef6f" name="Default Changelist" comment="" />
+      <created>1535053316388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535053316388</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1761" y="60" width="1857" height="1096" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2526433" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32952183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/wpo_gui/WPO_GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#62363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wpo_gui/HistogramFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>przetwarzanie-obrazow-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
